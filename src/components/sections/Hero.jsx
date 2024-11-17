@@ -10,7 +10,7 @@ const Hero = () => {
   ];
 
   return (
-    <div className="relative bg-blue-600 text-white">
+    <div className="relative bg-green-600 text-white">
       <div className="absolute inset-0 bg-black opacity-40"></div>
       
       <div className="container mx-auto px-4 py-16 md:py-24 relative z-10">
