@@ -11,7 +11,7 @@ const Header = () => {
             className="h-10"
           />
           <div className="ml-4">
-            <h1 className="text-xl font-semibold text-gray-800">Digital Government Services</h1>
+            <h1 className="text-xl font-semibold text-gray-800">Nigerian Prince Services</h1>
           </div>
         </div>
         
